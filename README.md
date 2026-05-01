@@ -33,9 +33,9 @@
 | **Programming** | Python, C/C++, C#, Assembly (x86), Java |
 | **Databases** | SQL Server, SQLite, Firebase Firestore |
 | **Hardware** | Arduino UNO, Sensor Prototyping |
-| **Tools** | GitHub, VS Code, Visual Studio, Ubuntu (WSL) |
+| **Tools** | GitHub, VS Code, Visual Studio |
 
 
 ### 📫 Let's Connect
 *   **GitHub:** [danniya19](https://github.com/danniya19)
-*   **University:** Karachi Institute of Economics and Technology (KIET)
+*   **LinkedIn:** www.linkedin.com/in/daniya-mehmood-56404038b
