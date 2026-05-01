@@ -1,16 +1,21 @@
 ## Hi there 👋
+# I'm Daniya 
 
-<!--
-**danniya19/danniya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Skilled in Python, C/C++, C#, Assembly & SQL  
+🤖 Interested in AI, Embedded Systems & Smart Solutions  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Smart Parking System (Python + Arduino + SQLite)
+- Smart Blind Stick (Embedded System)
+- Cricket Scoreboard (Assembly)
+- Gmail Spam Detector (JavaScript)
+- Bakery Management System (C# WinForms)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Programming: Python, C/C++, C#, Assembly
+- Databases: SQL, SQLite
+- Tools: Arduino, GitHub, VS Code, Visual Studio
+
+## 📫 Contact
+- GitHub: https://github.com/danniya19
