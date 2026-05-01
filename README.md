@@ -38,4 +38,4 @@
 
 ### 📫 Let's Connect
 *   **GitHub:** [danniya19](https://github.com/danniya19)
-*   **LinkedIn:** www.linkedin.com/in/daniya-mehmood-56404038b
+*   **LinkedIn:** [Daniya Mehmood]www.linkedin.com/in/daniya-mehmood-56404038b
