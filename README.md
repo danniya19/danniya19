@@ -8,7 +8,7 @@
 ###  Academic Profile
 *   **GPA:** 3.82 / 4.00
 *   **Focus:** Turning complex ideas into working, efficient systems.
-*   **Interests:** Artificial Intelligence, Smart Solutions, and Hardware-Software integration.
+*   **Interests:** Artificial Intelligence,Database Systems, Smart Solutions, and Hardware-Software integration.
 
 
 ###  Featured Projects
